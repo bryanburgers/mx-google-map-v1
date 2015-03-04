@@ -2,7 +2,7 @@
 if (! defined('MX_GOOGLE_MAP_PACKAGE'))
 {
 	define('MX_GOOGLE_MAP_NAME', 'MX Google Map');
-	define('MX_GOOGLE_MAP_VERSION',  '1.5.3.141002');
+	define('MX_GOOGLE_MAP_VERSION',  '1.5.3.150304-cr');
 	define('MX_GOOGLE_MAP_PACKAGE', 'Mx_google_map');
 	define('MX_GOOGLE_MAP_AUTHOR',  'Max Lazar');
 	define('MX_GOOGLE_MAP_DOCS',  '');
